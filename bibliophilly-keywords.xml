@@ -1,11 +1,25 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title/>
+</titleStmt>
+<publicationStmt>
+<ab/>
+</publicationStmt>
+<sourceDesc>
+<ab/>
+</sourceDesc>
+</fileDesc>
+
+
 <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
 <classDecl>
 <taxonomy xml:id="keywords">
 <category xml:id="keyword_1">
 <catDesc>Book Type</catDesc>
-
 <category xml:id="keyword_2">
-<catDesc>Antiphonary</catDesc>
+<catDesc> Antiphonary</catDesc>
 </category>
 <category xml:id="keyword_3">
 <catDesc>Bible</catDesc>
@@ -44,496 +58,511 @@
 <catDesc>Gradual</catDesc>
 </category>
 <category xml:id="keyword_15">
-<catDesc>Homilary</catDesc>
+<catDesc>Haggadah</catDesc>
 </category>
 <category xml:id="keyword_16">
-<catDesc>Horologion</catDesc>
+<catDesc>Homilary</catDesc>
 </category>
 <category xml:id="keyword_17">
-<catDesc>Hymnal</catDesc>
+<catDesc>Horologion</catDesc>
 </category>
 <category xml:id="keyword_18">
-<catDesc>Koran</catDesc>
+<catDesc>Hymnal</catDesc>
 </category>
 <category xml:id="keyword_19">
-<catDesc>Lectionary</catDesc>
+<catDesc>Koran</catDesc>
 </category>
 <category xml:id="keyword_20">
-<catDesc>Mass book</catDesc>
+<catDesc>Lectionary</catDesc>
 </category>
 <category xml:id="keyword_21">
-<catDesc>Missal</catDesc>
+<catDesc>Mass book</catDesc>
 </category>
 <category xml:id="keyword_22">
-<catDesc>Pontifical</catDesc>
+<catDesc>Missal</catDesc>
 </category>
 <category xml:id="keyword_23">
-<catDesc>Prayer</catDesc>
+<catDesc>Pontifical</catDesc>
 </category>
 <category xml:id="keyword_24">
-<catDesc>Prayer book</catDesc>
+<catDesc>Prayer</catDesc>
 </category>
 <category xml:id="keyword_25">
-<catDesc>Private devotional text</catDesc>
+<catDesc>Prayer book</catDesc>
 </category>
 <category xml:id="keyword_26">
-<catDesc>Processional</catDesc>
+<catDesc>Private devotional text</catDesc>
 </category>
 <category xml:id="keyword_27">
-<catDesc>Protective scroll</catDesc>
+<catDesc>Processional</catDesc>
 </category>
 <category xml:id="keyword_28">
-<catDesc>Psalter</catDesc>
+<catDesc>Protective scroll</catDesc>
 </category>
 <category xml:id="keyword_29">
-<catDesc>Psalter-Hours</catDesc>
+<catDesc>Psalter</catDesc>
 </category>
 <category xml:id="keyword_30">
-<catDesc>Qur`an</catDesc>
+<catDesc>Psalter-Hours</catDesc>
 </category>
 <category xml:id="keyword_31">
-<catDesc>Saint's Life</catDesc>
+<catDesc>Qur`an</catDesc>
 </category>
 <category xml:id="keyword_32">
+<catDesc>Saint's Life</catDesc>
+</category>
+<category xml:id="keyword_33">
 <catDesc>Treatise</catDesc>
 </category>
 </category>
-<category xml:id="keyword_33">
-<catDesc>Century</catDesc>
+
 <category xml:id="keyword_34">
+<catDesc>Century</catDesc>
+<category xml:id="keyword_35">
 <catDesc>8th century</catDesc>
 </category>
-<category xml:id="keyword_35">
+<category xml:id="keyword_36">
 <catDesc>9th century</catDesc>
 </category>
-<category xml:id="keyword_36">
+<category xml:id="keyword_37">
 <catDesc>10th century</catDesc>
 </category>
-<category xml:id="keyword_37">
+<category xml:id="keyword_38">
 <catDesc>11th century</catDesc>
 </category>
-<category xml:id="keyword_38">
+<category xml:id="keyword_39">
 <catDesc>12th century</catDesc>
 </category>
-<category xml:id="keyword_39">
+<category xml:id="keyword_40">
 <catDesc>13th century</catDesc>
 </category>
-<category xml:id="keyword_40">
+<category xml:id="keyword_41">
 <catDesc>14th century</catDesc>
 </category>
-<category xml:id="keyword_41">
+<category xml:id="keyword_42">
 <catDesc>15th century</catDesc>
 </category>
-<category xml:id="keyword_42">
+<category xml:id="keyword_43">
 <catDesc>16th century</catDesc>
 </category>
-<category xml:id="keyword_43">
+<category xml:id="keyword_44">
 <catDesc>17th century</catDesc>
 </category>
-<category xml:id="keyword_44">
+<category xml:id="keyword_45">
 <catDesc>18th century</catDesc>
 </category>
-<category xml:id="keyword_45">
+<category xml:id="keyword_46">
 <catDesc>19th century</catDesc>
 </category>
-<category xml:id="keyword_46">
+<category xml:id="keyword_47">
 <catDesc>20th century</catDesc>
 </category>
 </category>
-<category xml:id="keyword_47">
-<catDesc>Culture</catDesc>
+
 <category xml:id="keyword_48">
+<catDesc>Culture</catDesc>
+<category xml:id="keyword_49">
 <catDesc>Abbasid</catDesc>
 </category>
-<category xml:id="keyword_49">
+<category xml:id="keyword_50">
 <catDesc>Arabic</catDesc>
 </category>
-<category xml:id="keyword_50">
+<category xml:id="keyword_51">
 <catDesc>Armenian</catDesc>
 </category>
-<category xml:id="keyword_51">
+<category xml:id="keyword_52">
 <catDesc>Austrian</catDesc>
 </category>
-<category xml:id="keyword_52">
+<category xml:id="keyword_53">
 <catDesc>Byzantine</catDesc>
 </category>
-<category xml:id="keyword_53">
+<category xml:id="keyword_54">
 <catDesc>Carolingian</catDesc>
 </category>
-<category xml:id="keyword_54">
+<category xml:id="keyword_55">
 <catDesc>Christian</catDesc>
 </category>
-<category xml:id="keyword_55">
+<category xml:id="keyword_56">
 <catDesc>Coptic</catDesc>
 </category>
-<category xml:id="keyword_56">
+<category xml:id="keyword_57">
 <catDesc>Dutch</catDesc>
 </category>
-<category xml:id="keyword_57">
+<category xml:id="keyword_58">
 <catDesc>Egyptian</catDesc>
 </category>
-<category xml:id="keyword_58">
+<category xml:id="keyword_59">
 <catDesc>English</catDesc>
 </category>
-<category xml:id="keyword_59">
+<category xml:id="keyword_60">
 <catDesc>Ethiopian</catDesc>
 </category>
-<category xml:id="keyword_60">
+<category xml:id="keyword_61">
 <catDesc>Fatimid</catDesc>
 </category>
-<category xml:id="keyword_61">
+<category xml:id="keyword_62">
 <catDesc>Flemish</catDesc>
 </category>
-<category xml:id="keyword_62">
+<category xml:id="keyword_63">
 <catDesc>French</catDesc>
 </category>
-<category xml:id="keyword_63">
+<category xml:id="keyword_64">
 <catDesc>German</catDesc>
 </category>
-<category xml:id="keyword_64">
+<category xml:id="keyword_65">
 <catDesc>Indian</catDesc>
 </category>
-<category xml:id="keyword_65">
+<category xml:id="keyword_66">
 <catDesc>Islamic</catDesc>
 </category>
-<category xml:id="keyword_66">
+<category xml:id="keyword_67">
 <catDesc>Italian</catDesc>
 </category>
-<category xml:id="keyword_67">
-<catDesc>Mamluk</catDesc>
-</category>
 <category xml:id="keyword_68">
-<catDesc>Mughal</catDesc>
+<catDesc>Jewish</catDesc>
 </category>
 <category xml:id="keyword_69">
-<catDesc>Ottoman</catDesc>
+<catDesc>Mamluk</catDesc>
 </category>
 <category xml:id="keyword_70">
-<catDesc>Ottonian</catDesc>
+<catDesc>Mughal</catDesc>
 </category>
 <category xml:id="keyword_71">
-<catDesc>Persian</catDesc>
+<catDesc>Ottoman</catDesc>
 </category>
 <category xml:id="keyword_72">
-<catDesc>Qajar</catDesc>
+<catDesc>Ottonian</catDesc>
 </category>
 <category xml:id="keyword_73">
-<catDesc>Rajput</catDesc>
+<catDesc>Persian</catDesc>
 </category>
 <category xml:id="keyword_74">
-<catDesc>Russian</catDesc>
+<catDesc>Qajar</catDesc>
 </category>
 <category xml:id="keyword_75">
-<catDesc>Safavid</catDesc>
+<catDesc>Rajput</catDesc>
 </category>
 <category xml:id="keyword_76">
-<catDesc>Spanish</catDesc>
+<catDesc>Russian</catDesc>
 </category>
 <category xml:id="keyword_77">
-<catDesc>Timurid</catDesc>
+<catDesc>Safavid</catDesc>
 </category>
 <category xml:id="keyword_78">
+<catDesc>Spanish</catDesc>
+</category>
+<category xml:id="keyword_79">
+<catDesc>Timurid</catDesc>
+</category>
+<category xml:id="keyword_80">
 <catDesc>Turkish</catDesc>
 </category>
 </category>
-<category xml:id="keyword_79">
+<category xml:id="keyword_81">
 <catDesc>Descriptive Term</catDesc>
-
-<category xml:id="keyword_80">
+<category xml:id="keyword_82">
 <catDesc>Accordion book</catDesc>
 </category>
-<category xml:id="keyword_81">
+<category xml:id="keyword_83">
 <catDesc>Album</catDesc>
 </category>
-<category xml:id="keyword_82">
+<category xml:id="keyword_84">
 <catDesc>Binding</catDesc>
 </category>
-<category xml:id="keyword_83">
+<category xml:id="keyword_85">
 <catDesc>Calligraphy</catDesc>
 </category>
-<category xml:id="keyword_84">
+<category xml:id="keyword_86">
 <catDesc>Caroline minuscule</catDesc>
 </category>
-<category xml:id="keyword_85">
+<category xml:id="keyword_87">
 <catDesc>Chart</catDesc>
 </category>
-<category xml:id="keyword_86">
+<category xml:id="keyword_88">
 <catDesc>Charter</catDesc>
 </category>
-<category xml:id="keyword_87">
+<category xml:id="keyword_89">
 <catDesc>Charts</catDesc>
 </category>
-<category xml:id="keyword_88">
+<category xml:id="keyword_90">
 <catDesc>Colophon</catDesc>
 </category>
-<category xml:id="keyword_89">
+<category xml:id="keyword_91">
 <catDesc>Drawing</catDesc>
 </category>
-<category xml:id="keyword_90">
+<category xml:id="keyword_92">
 <catDesc>Early Abbasid script</catDesc>
 </category>
-<category xml:id="keyword_91">
+<category xml:id="keyword_93">
 <catDesc>Gloss</catDesc>
 </category>
-<category xml:id="keyword_92">
+<category xml:id="keyword_94">
 <catDesc>Gothic</catDesc>
 </category>
-<category xml:id="keyword_93">
+<category xml:id="keyword_95">
 <catDesc>Gothic book hand</catDesc>
 </category>
-<category xml:id="keyword_94">
+<category xml:id="keyword_96">
 <catDesc>Grisaille</catDesc>
 </category>
-<category xml:id="keyword_95">
+<category xml:id="keyword_97">
 <catDesc>Grotesques</catDesc>
 </category>
-<category xml:id="keyword_96">
+<category xml:id="keyword_98">
 <catDesc>Headpiece</catDesc>
 </category>
-<category xml:id="keyword_97">
+<category xml:id="keyword_99">
 <catDesc>Heraldry</catDesc>
 </category>
-<category xml:id="keyword_98">
+<category xml:id="keyword_100">
 <catDesc>Historiated initial</catDesc>
 </category>
-<category xml:id="keyword_99">
+<category xml:id="keyword_101">
 <catDesc>Humanistic</catDesc>
 </category>
-<category xml:id="keyword_100">
+<category xml:id="keyword_102">
 <catDesc>Illustration</catDesc>
 </category>
-<category xml:id="keyword_101">
+<category xml:id="keyword_103">
 <catDesc>Inhabited initial</catDesc>
 </category>
-<category xml:id="keyword_102">
+<category xml:id="keyword_104">
 <catDesc>Kufic</catDesc>
 </category>
-<category xml:id="keyword_103">
+<category xml:id="keyword_105">
 <catDesc>Medallion</catDesc>
 </category>
-<category xml:id="keyword_104">
-<catDesc>Miniature</catDesc>
-</category>
-<category xml:id="keyword_105">
-<catDesc>Musical notation</catDesc>
-</category>
 <category xml:id="keyword_106">
-<catDesc>New Abbasid style</catDesc>
+<catDesc>Micograpy</catDesc>
 </category>
 <category xml:id="keyword_107">
-<catDesc>Original binding</catDesc>
+<catDesc>Miniature</catDesc>
 </category>
 <category xml:id="keyword_108">
-<catDesc>Ornament</catDesc>
+<catDesc>Musical notation</catDesc>
 </category>
 <category xml:id="keyword_109">
-<catDesc>Painting</catDesc>
+<catDesc>New Abbasid style</catDesc>
 </category>
 <category xml:id="keyword_110">
-<catDesc>Ragini</catDesc>
+<catDesc>Original binding</catDesc>
 </category>
 <category xml:id="keyword_111">
-<catDesc>Romanesque</catDesc>
+<catDesc>Ornament</catDesc>
 </category>
 <category xml:id="keyword_112">
-<catDesc>Scrapbook</catDesc>
+<catDesc>Painting</catDesc>
 </category>
 <category xml:id="keyword_113">
-<catDesc>Scroll</catDesc>
+<catDesc>Ragini</catDesc>
 </category>
 <category xml:id="keyword_114">
-<catDesc>Textura</catDesc>
+<catDesc>Romanesque</catDesc>
 </category>
 <category xml:id="keyword_115">
-<catDesc>Treasure binding</catDesc>
+<catDesc>Scrapbook</catDesc>
 </category>
 <category xml:id="keyword_116">
-<catDesc>Watermark</catDesc>
+<catDesc>Scroll</catDesc>
 </category>
 <category xml:id="keyword_117">
+<catDesc>Textura</catDesc>
+</category>
+<category xml:id="keyword_118">
+<catDesc>Treasure binding</catDesc>
+</category>
+<category xml:id="keyword_119">
+<catDesc>Watermark</catDesc>
+</category>
+<category xml:id="keyword_120">
 <catDesc>White-vine lettering</catDesc>
 </category>
 </category>
-<category xml:id="keyword_118">
+<category xml:id="keyword_121">
 <catDesc>Geography</catDesc>
-
-<category xml:id="keyword_119">
+<category xml:id="keyword_122">
 <catDesc>Afghanistan</catDesc>
 </category>
-<category xml:id="keyword_120">
+<category xml:id="keyword_123">
 <catDesc>Armenia</catDesc>
 </category>
-<category xml:id="keyword_121">
+<category xml:id="keyword_124">
 <catDesc>Austria</catDesc>
 </category>
-<category xml:id="keyword_122">
+<category xml:id="keyword_125">
 <catDesc>Central Arab lands (Near East)</catDesc>
 </category>
-<category xml:id="keyword_123">
+<category xml:id="keyword_126">
 <catDesc>Central Asia</catDesc>
 </category>
-<category xml:id="keyword_124">
+<category xml:id="keyword_127">
 <catDesc>Egypt</catDesc>
 </category>
-<category xml:id="keyword_125">
+<category xml:id="keyword_128">
 <catDesc>England</catDesc>
 </category>
-<category xml:id="keyword_126">
+<category xml:id="keyword_129">
 <catDesc>Ethiopia</catDesc>
 </category>
-<category xml:id="keyword_127">
+<category xml:id="keyword_130">
 <catDesc>Flanders</catDesc>
 </category>
-<category xml:id="keyword_128">
+<category xml:id="keyword_131">
 <catDesc>France</catDesc>
 </category>
-<category xml:id="keyword_129">
+<category xml:id="keyword_132">
 <catDesc>Germany</catDesc>
 </category>
-<category xml:id="keyword_130">
+<category xml:id="keyword_133">
 <catDesc>Greece</catDesc>
 </category>
-<category xml:id="keyword_131">
+<category xml:id="keyword_134">
 <catDesc>India</catDesc>
 </category>
-<category xml:id="keyword_132">
+<category xml:id="keyword_135">
 <catDesc>Iran</catDesc>
 </category>
-<category xml:id="keyword_133">
+<category xml:id="keyword_136">
 <catDesc>Iraq</catDesc>
 </category>
-<category xml:id="keyword_134">
+<category xml:id="keyword_137">
 <catDesc>Italy</catDesc>
 </category>
-<category xml:id="keyword_135">
+<category xml:id="keyword_138">
 <catDesc>Maghreb</catDesc>
 </category>
-<category xml:id="keyword_136">
+<category xml:id="keyword_139">
 <catDesc>Netherlands</catDesc>
 </category>
-<category xml:id="keyword_137">
+<category xml:id="keyword_140">
 <catDesc>Pakistan</catDesc>
 </category>
-<category xml:id="keyword_138">
+<category xml:id="keyword_141">
 <catDesc>Romania</catDesc>
 </category>
-<category xml:id="keyword_139">
+<category xml:id="keyword_142">
 <catDesc>Russia</catDesc>
 </category>
-<category xml:id="keyword_140">
+<category xml:id="keyword_143">
 <catDesc>Spain</catDesc>
 </category>
-<category xml:id="keyword_141">
+<category xml:id="keyword_144">
 <catDesc>Sub-Saharan (West) Africa</catDesc>
 </category>
-<category xml:id="keyword_142">
+<category xml:id="keyword_145">
 <catDesc>Turkey</catDesc>
 </category>
 </category>
-<category xml:id="keyword_143">
+<category xml:id="keyword_146">
 <catDesc>Subject</catDesc>
-
-<category xml:id="keyword_144">
+<category xml:id="keyword_147">
 <catDesc>Astrology</catDesc>
 </category>
-<category xml:id="keyword_145">
+<category xml:id="keyword_148">
 <catDesc>Cartography</catDesc>
 </category>
-<category xml:id="keyword_146">
+<category xml:id="keyword_149">
 <catDesc>Cosmology</catDesc>
 </category>
-<category xml:id="keyword_147">
+<category xml:id="keyword_150">
 <catDesc>Devotion</catDesc>
 </category>
-<category xml:id="keyword_148">
+<category xml:id="keyword_151">
 <catDesc>Fortune-telling</catDesc>
 </category>
-<category xml:id="keyword_149">
+<category xml:id="keyword_152">
 <catDesc>Friendship</catDesc>
 </category>
-<category xml:id="keyword_150">
+<category xml:id="keyword_153">
 <catDesc>Geography</catDesc>
 </category>
-<category xml:id="keyword_151">
+<category xml:id="keyword_154">
 <catDesc>Geomancy</catDesc>
 </category>
-<category xml:id="keyword_152">
+<category xml:id="keyword_155">
 <catDesc>Grammar</catDesc>
 </category>
-<category xml:id="keyword_153">
+<category xml:id="keyword_156">
 <catDesc>History</catDesc>
 </category>
-<category xml:id="keyword_154">
+<category xml:id="keyword_157">
 <catDesc>Legal</catDesc>
 </category>
-<category xml:id="keyword_155">
+<category xml:id="keyword_158">
 <catDesc>Literature -- Poetry</catDesc>
 </category>
-<category xml:id="keyword_156">
+<category xml:id="keyword_159">
 <catDesc>Literature -- Prose</catDesc>
 </category>
-<category xml:id="keyword_157">
+<category xml:id="keyword_160">
 <catDesc>Liturgy</catDesc>
 </category>
-<category xml:id="keyword_158">
+<category xml:id="keyword_161">
 <catDesc>Logic</catDesc>
 </category>
-<category xml:id="keyword_159">
+<category xml:id="keyword_162">
 <catDesc>Mineralogy</catDesc>
 </category>
-<category xml:id="keyword_160">
+<category xml:id="keyword_163">
 <catDesc>Philosophy</catDesc>
 </category>
-<category xml:id="keyword_161">
+<category xml:id="keyword_164">
 <catDesc>Science</catDesc>
 </category>
-<category xml:id="keyword_162">
+<category xml:id="keyword_165">
 <catDesc>Science -- Medicine</catDesc>
 </category>
-<category xml:id="keyword_163">
+<category xml:id="keyword_166">
 <catDesc>Scripture</catDesc>
 </category>
-<category xml:id="keyword_164">
+<category xml:id="keyword_167">
 <catDesc>Sufism</catDesc>
 </category>
-<category xml:id="keyword_165">
+<category xml:id="keyword_168">
 <catDesc>Theology</catDesc>
 </category>
 </category>
-<category xml:id="keyword_166">
+<category xml:id="keyword_169">
 <catDesc>Other</catDesc>
-
-<category xml:id="keyword_167">
+<category xml:id="keyword_170">
 <catDesc>Collection of Sermons</catDesc>
 </category>
-<category xml:id="keyword_168">
+<category xml:id="keyword_171">
 <catDesc>Notable binding</catDesc>
 </category>
-<category xml:id="keyword_169">
+<category xml:id="keyword_172">
 <catDesc>Paper</catDesc>
 </category>
-<category xml:id="keyword_170">
+<category xml:id="keyword_173">
 <catDesc>Damage</catDesc>
 </category>
-<category xml:id="keyword_171">
+<category xml:id="keyword_174">
 <catDesc>Diagrams</catDesc>
 </category>
-<category xml:id="keyword_172">
+<category xml:id="keyword_175">
 <catDesc>Tables</catDesc>
 </category>
-<category xml:id="keyword_173">
+<category xml:id="keyword_176">
 <catDesc>Illumination</catDesc>
 </category>
-<category xml:id="keyword_174">
+<category xml:id="keyword_177">
 <catDesc>Fragment</catDesc>
 </category>
-<category xml:id="keyword_175">
+<category xml:id="keyword_178">
 <catDesc>Allegory</catDesc>
 </category>
-<category xml:id="keyword_176">
+<category xml:id="keyword_179">
 <catDesc>Biblical</catDesc>
 </category>
+
 </category>
 </taxonomy>
 </classDecl>
 </encodingDesc>
+</teiHeader>
+<text>
+<body>
+<ab/>
+</body>
+</text>
+</TEI>
