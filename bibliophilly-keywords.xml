@@ -1,18 +1,3 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title/>
-</titleStmt>
-<publicationStmt>
-<ab/>
-</publicationStmt>
-<sourceDesc>
-<ab/>
-</sourceDesc>
-</fileDesc>
-
-
 <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
 <classDecl>
 <taxonomy xml:id="keywords">
@@ -559,10 +544,3 @@
 </taxonomy>
 </classDecl>
 </encodingDesc>
-</teiHeader>
-<text>
-<body>
-<ab/>
-</body>
-</text>
-</TEI>
