@@ -115,10 +115,12 @@ New Abbasid style
 Original binding
 Ornament
 Painting
+Puzzle initial
 Ragini
 Romanesque
 Scrapbook
 Scroll
+Scroll-work initial
 Textura
 Treasure binding
 Watermark
@@ -129,6 +131,7 @@ Geography
 Afghanistan
 Armenia
 Austria
+Belgium
 Central Arab lands (Near East)
 Central Asia
 Egypt
