@@ -6,7 +6,7 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>Microsoft Office User</LastAuthor>
-  <Created>2017-06-23T21:02:22Z</Created>
+  <Created>2017-08-24T18:32:24Z</Created>
   <Version>15.0</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -14,10 +14,10 @@
   <PixelsPerInch>96</PixelsPerInch>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>16600</WindowHeight>
-  <WindowWidth>28560</WindowWidth>
-  <WindowTopX>2380</WindowTopX>
-  <WindowTopY>3060</WindowTopY>
+  <WindowHeight>16420</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>460</WindowTopY>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
  </ExcelWorkbook>
@@ -36,11 +36,11 @@
   </Style>
   <Style ss:ID="s16">
    <Alignment ss:Vertical="Bottom"/>
-   <Font x:Family="Swiss" ss:Bold="1"/>
+   <Font ss:Bold="1"/>
   </Style>
   <Style ss:ID="s17">
    <Alignment ss:Vertical="Bottom"/>
-   <Font x:Family="Swiss"/>
+   <Font/>
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet2">
@@ -160,7 +160,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Historiated initial</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Humanistic</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Illustration</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Inhabited</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Inhabited initial</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Kufic</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Manicules</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Medallion</Data></Cell>
@@ -250,6 +250,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Allegory</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Biblical</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Missing leaves</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Church Fathers</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">

@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="19.0">
+<project version="18.1">
     <meta>
         <filters directoryPatterns="" filePatterns="bibliophilly-keywords.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="19.0" xml:space="preserve">
+            <serialized version="18.1" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>BiblioPhillyKeywords_fromExcel.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>BiblioPhilly Keywords</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>BiblioPhilly%20Keywords.xml</String>
