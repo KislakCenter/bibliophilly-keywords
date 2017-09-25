@@ -6,7 +6,7 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>Microsoft Office User</LastAuthor>
-  <Created>2017-08-24T18:32:24Z</Created>
+  <Created>2017-09-25T21:31:10Z</Created>
   <Version>15.0</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -14,7 +14,7 @@
   <PixelsPerInch>96</PixelsPerInch>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>16420</WindowHeight>
+  <WindowHeight>16500</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>460</WindowTopY>
@@ -106,6 +106,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Abbasid</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Arabic</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Armenian</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Ashkenazi</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Austrian</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Byzantine</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Carolingian</Data></Cell>
@@ -132,6 +133,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Rajput</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Russian</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Safavid</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Sephardi</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Spanish</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Timurid</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Turkish</Data></Cell>
@@ -164,7 +166,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Kufic</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Manicules</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Medallion</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Micograpy</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Micrography</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Miniature</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Musical notation</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">New Abbasid style</Data></Cell>
@@ -203,6 +205,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Iraq</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Italy</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Maghreb</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Morocco</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Netherlands</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Pakistan</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Romania</Data></Cell>
@@ -214,6 +217,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s16"><Data ss:Type="String">Subject</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Astrology</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Astronomy</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Cartography</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Cosmology</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Devotion</Data></Cell>
@@ -223,14 +227,18 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Geomancy</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Grammar</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">History</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Kabbalah</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Legal</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Literature &#45;- Poetry</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Literature &#45;- Prose</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Liturgy</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Logic</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Magic</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Mathematics</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Mineralogy</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Philosophy</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Piyutim</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Responsa</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Science</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Science &#45;- Medicine</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Scripture</Data></Cell>
@@ -260,6 +268,8 @@
     <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
    </PageSetup>
    <Unsynced/>
+   <NoSummaryRowsBelowDetail/>
+   <NoSummaryColumnsRightDetail/>
    <PageLayoutZoom>0</PageLayoutZoom>
    <Selected/>
    <ProtectObjects>False</ProtectObjects>
