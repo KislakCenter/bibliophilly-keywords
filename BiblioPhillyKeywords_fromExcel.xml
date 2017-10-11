@@ -6,7 +6,8 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>Microsoft Office User</LastAuthor>
-  <Created>2017-09-25T21:31:10Z</Created>
+  <Created>2017-10-11T14:48:52Z</Created>
+  <LastSaved>2017-10-11T14:48:52Z</LastSaved>
   <Version>15.0</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -14,7 +15,7 @@
   <PixelsPerInch>96</PixelsPerInch>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>16500</WindowHeight>
+  <WindowHeight>16480</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>460</WindowTopY>
@@ -110,6 +111,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Austrian</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Byzantine</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Carolingian</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Chinese</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Christian</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Coptic</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Dutch</Data></Cell>
@@ -193,6 +195,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Belgium</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Central Arab lands (Near East)</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Central Asia</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">China</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Egypt</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">England</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Ethiopia</Data></Cell>
@@ -223,6 +226,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Devotion</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Fortune-telling</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Friendship</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Games</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Geography</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Geomancy</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Grammar</Data></Cell>
@@ -268,8 +272,8 @@
     <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
    </PageSetup>
    <Unsynced/>
-   <NoSummaryRowsBelowDetail/>
-   <NoSummaryColumnsRightDetail/>
+   <Print>
+   </Print>
    <PageLayoutZoom>0</PageLayoutZoom>
    <Selected/>
    <ProtectObjects>False</ProtectObjects>
