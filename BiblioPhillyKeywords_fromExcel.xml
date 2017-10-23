@@ -6,8 +6,8 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>Microsoft Office User</LastAuthor>
-  <Created>2017-10-11T14:48:52Z</Created>
-  <LastSaved>2017-10-11T14:48:52Z</LastSaved>
+  <Created>2017-10-23T14:48:41Z</Created>
+  <LastSaved>2017-10-23T14:48:41Z</LastSaved>
   <Version>15.0</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -15,7 +15,7 @@
   <PixelsPerInch>96</PixelsPerInch>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>16480</WindowHeight>
+  <WindowHeight>16500</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>460</WindowTopY>
@@ -43,6 +43,11 @@
    <Alignment ss:Vertical="Bottom"/>
    <Font/>
   </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" ss:Size="12" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
  </Styles>
  <Worksheet ss:Name="Sheet2">
   <Table ss:ExpandedColumnCount="45" ss:ExpandedRowCount="7" x:FullColumns="1"
@@ -50,6 +55,7 @@
    ss:DefaultRowHeight="15.75">
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s16"><Data ss:Type="String">Book Type</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Accounts</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Antiphonary</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Armorial</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Bible</Data></Cell>
@@ -58,6 +64,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Breviary</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Chronicle</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Document</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Dogale</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Friendship book</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Genealogy</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Gospel Book</Data></Cell>
@@ -102,7 +109,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">19th century</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">20th century</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="15">
     <Cell ss:StyleID="s16"><Data ss:Type="String">Culture</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Abbasid</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Arabic</Data></Cell>
@@ -126,6 +133,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Islamic</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Italian</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Jewish</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Karaite</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Mamluk</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Mughal</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Ottoman</Data></Cell>
@@ -224,6 +232,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Cartography</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Cosmology</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Devotion</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Financial records</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Fortune-telling</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Friendship</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Games</Data></Cell>
