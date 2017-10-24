@@ -6,8 +6,8 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>Microsoft Office User</LastAuthor>
-  <Created>2017-10-23T14:48:41Z</Created>
-  <LastSaved>2017-10-23T14:48:41Z</LastSaved>
+  <Created>2017-10-24T14:22:43Z</Created>
+  <LastSaved>2017-10-24T14:22:43Z</LastSaved>
   <Version>15.0</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -15,7 +15,7 @@
   <PixelsPerInch>96</PixelsPerInch>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>16500</WindowHeight>
+  <WindowHeight>16560</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>460</WindowTopY>
@@ -63,6 +63,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Book of Hours</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Breviary</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Chronicle</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Commentary</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Document</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Dogale</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Friendship book</Data></Cell>
@@ -109,7 +110,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">19th century</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">20th century</Data></Cell>
    </Row>
-   <Row ss:Height="15">
+   <Row ss:Height="16">
     <Cell ss:StyleID="s16"><Data ss:Type="String">Culture</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Abbasid</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Arabic</Data></Cell>
@@ -281,8 +282,6 @@
     <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
    </PageSetup>
    <Unsynced/>
-   <Print>
-   </Print>
    <PageLayoutZoom>0</PageLayoutZoom>
    <Selected/>
    <ProtectObjects>False</ProtectObjects>
