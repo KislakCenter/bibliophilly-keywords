@@ -6,8 +6,7 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>Microsoft Office User</LastAuthor>
-  <Created>2017-10-24T19:36:15Z</Created>
-  <LastSaved>2017-10-24T19:36:15Z</LastSaved>
+  <Created>2018-01-12T19:21:22Z</Created>
   <Version>15.0</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -15,7 +14,7 @@
   <PixelsPerInch>96</PixelsPerInch>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>16500</WindowHeight>
+  <WindowHeight>16540</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>460</WindowTopY>
@@ -50,10 +49,10 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet2">
-  <Table ss:ExpandedColumnCount="45" ss:ExpandedRowCount="7" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="53" ss:ExpandedRowCount="6" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s15" ss:DefaultColumnWidth="87"
    ss:DefaultRowHeight="15.75">
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="13">
     <Cell ss:StyleID="s16"><Data ss:Type="String">Book Type</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Accounts</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Antiphonary</Data></Cell>
@@ -63,6 +62,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Book of Hours</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Breviary</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Chronicle</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Collection of Sermons</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Commentary</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Document</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Dogale</Data></Cell>
@@ -93,9 +93,11 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Qur`an</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Recipe book</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Saint's Life</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Scribal manual</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Torah</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Treatise</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="13">
     <Cell ss:StyleID="s16"><Data ss:Type="String">Century</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">8th century</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">9th century</Data></Cell>
@@ -111,7 +113,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">19th century</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">20th century</Data></Cell>
    </Row>
-   <Row ss:Height="15">
+   <Row ss:Height="16">
     <Cell ss:StyleID="s16"><Data ss:Type="String">Culture</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Abbasid</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Arabic</Data></Cell>
@@ -149,8 +151,9 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Spanish</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Timurid</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Turkish</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Yemenite</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="13">
     <Cell ss:StyleID="s16"><Data ss:Type="String">Desciptive term</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Accordion book</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Album</Data></Cell>
@@ -162,8 +165,11 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Charter</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Charts</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Colophon</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Damage</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Diagrams</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Drawing</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Early Abbasid script</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Fragment</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Gloss</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Gothic</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Gothic book hand</Data></Cell>
@@ -173,6 +179,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Heraldry</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Historiated initial</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Humanistic</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Illumination</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Illustration</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Inhabited initial</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Kufic</Data></Cell>
@@ -180,24 +187,28 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Medallion</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Micrography</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Miniature</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Missing leaves</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Musical notation</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">New Abbasid style</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Notable binding</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Original binding</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Ornament</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Painting</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Paper</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Puzzle initial</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Ragini</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Romanesque</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Scrapbook</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Scroll</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Scroll-work initial</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Tables</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Textura</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Treasure binding</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Watermark</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">White-vine lettering</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Woodcuts</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
+   <Row ss:Height="13">
     <Cell ss:StyleID="s16"><Data ss:Type="String">Geography</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Afghanistan</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Armenia</Data></Cell>
@@ -216,6 +227,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">India</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Iran</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Iraq</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Israel</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Italy</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Maghreb</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Morocco</Data></Cell>
@@ -226,12 +238,17 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Spain</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Sub-Saharan (West) Africa</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Turkey</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Yemen</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s16"><Data ss:Type="String">Subject</Data></Cell>
+   <Row ss:Height="13">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Other</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Alchemy</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Allegory</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Astrology</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Astronomy</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Biblical</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Cartography</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Church Fathers</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Cosmology</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Devotion</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Financial records</Data></Cell>
@@ -260,21 +277,6 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Sufism</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Theology</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s16"><Data ss:Type="String">Other</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Collection of Sermons</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Notable binding</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Paper</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Damage</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Diagrams</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Tables</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Illumination</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Fragment</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Allegory</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Biblical</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Missing leaves</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Church Fathers</Data></Cell>
-   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -283,8 +285,6 @@
     <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
    </PageSetup>
    <Unsynced/>
-   <Print>
-   </Print>
    <PageLayoutZoom>0</PageLayoutZoom>
    <Selected/>
    <ProtectObjects>False</ProtectObjects>

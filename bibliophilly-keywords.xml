@@ -29,96 +29,105 @@
                     <catDesc>Chronicle</catDesc>
                 </category>
                 <category xml:id="keyword_1.10">
-                    <catDesc>Commentary</catDesc>
+                    <catDesc>Collection of Sermons</catDesc>
                 </category>
                 <category xml:id="keyword_1.11">
-                    <catDesc>Document</catDesc>
+                    <catDesc>Commentary</catDesc>
                 </category>
                 <category xml:id="keyword_1.12">
-                    <catDesc>Dogale</catDesc>
+                    <catDesc>Document</catDesc>
                 </category>
                 <category xml:id="keyword_1.13">
-                    <catDesc>Friendship book</catDesc>
+                    <catDesc>Dogale</catDesc>
                 </category>
                 <category xml:id="keyword_1.14">
-                    <catDesc>Genealogy</catDesc>
+                    <catDesc>Friendship book</catDesc>
                 </category>
                 <category xml:id="keyword_1.15">
-                    <catDesc>Glossary</catDesc>
+                    <catDesc>Genealogy</catDesc>
                 </category>
                 <category xml:id="keyword_1.16">
-                    <catDesc>Gospel Book</catDesc>
+                    <catDesc>Glossary</catDesc>
                 </category>
                 <category xml:id="keyword_1.17">
-                    <catDesc>Gospel Lectionary</catDesc>
+                    <catDesc>Gospel Book</catDesc>
                 </category>
                 <category xml:id="keyword_1.18">
-                    <catDesc>Gospels</catDesc>
+                    <catDesc>Gospel Lectionary</catDesc>
                 </category>
                 <category xml:id="keyword_1.19">
-                    <catDesc>Gradual</catDesc>
+                    <catDesc>Gospels</catDesc>
                 </category>
                 <category xml:id="keyword_1.20">
-                    <catDesc>Haggadah</catDesc>
+                    <catDesc>Gradual</catDesc>
                 </category>
                 <category xml:id="keyword_1.21">
-                    <catDesc>Homilary</catDesc>
+                    <catDesc>Haggadah</catDesc>
                 </category>
                 <category xml:id="keyword_1.22">
-                    <catDesc>Horologion</catDesc>
+                    <catDesc>Homilary</catDesc>
                 </category>
                 <category xml:id="keyword_1.23">
-                    <catDesc>Hymnal</catDesc>
+                    <catDesc>Horologion</catDesc>
                 </category>
                 <category xml:id="keyword_1.24">
-                    <catDesc>Koran</catDesc>
+                    <catDesc>Hymnal</catDesc>
                 </category>
                 <category xml:id="keyword_1.25">
-                    <catDesc>Lectionary</catDesc>
+                    <catDesc>Koran</catDesc>
                 </category>
                 <category xml:id="keyword_1.26">
-                    <catDesc>Mass book</catDesc>
+                    <catDesc>Lectionary</catDesc>
                 </category>
                 <category xml:id="keyword_1.27">
-                    <catDesc>Miscellany</catDesc>
+                    <catDesc>Mass book</catDesc>
                 </category>
                 <category xml:id="keyword_1.28">
-                    <catDesc>Missal</catDesc>
+                    <catDesc>Miscellany</catDesc>
                 </category>
                 <category xml:id="keyword_1.29">
-                    <catDesc>Pontifical</catDesc>
+                    <catDesc>Missal</catDesc>
                 </category>
                 <category xml:id="keyword_1.30">
-                    <catDesc>Prayer</catDesc>
+                    <catDesc>Pontifical</catDesc>
                 </category>
                 <category xml:id="keyword_1.31">
-                    <catDesc>Prayer book</catDesc>
+                    <catDesc>Prayer</catDesc>
                 </category>
                 <category xml:id="keyword_1.32">
-                    <catDesc>Private devotional text</catDesc>
+                    <catDesc>Prayer book</catDesc>
                 </category>
                 <category xml:id="keyword_1.33">
-                    <catDesc>Processional</catDesc>
+                    <catDesc>Private devotional text</catDesc>
                 </category>
                 <category xml:id="keyword_1.34">
-                    <catDesc>Protective scroll</catDesc>
+                    <catDesc>Processional</catDesc>
                 </category>
                 <category xml:id="keyword_1.35">
-                    <catDesc>Psalter</catDesc>
+                    <catDesc>Protective scroll</catDesc>
                 </category>
                 <category xml:id="keyword_1.36">
-                    <catDesc>Psalter-Hours</catDesc>
+                    <catDesc>Psalter</catDesc>
                 </category>
                 <category xml:id="keyword_1.37">
-                    <catDesc>Qur`an</catDesc>
+                    <catDesc>Psalter-Hours</catDesc>
                 </category>
                 <category xml:id="keyword_1.38">
-                    <catDesc>Recipe book</catDesc>
+                    <catDesc>Qur`an</catDesc>
                 </category>
                 <category xml:id="keyword_1.39">
-                    <catDesc>Saint's Life</catDesc>
+                    <catDesc>Recipe book</catDesc>
                 </category>
                 <category xml:id="keyword_1.40">
+                    <catDesc>Saint's Life</catDesc>
+                </category>
+                <category xml:id="keyword_1.41">
+                    <catDesc>Scribal manual</catDesc>
+                </category>
+                <category xml:id="keyword_1.42">
+                    <catDesc>Torah</catDesc>
+                </category>
+                <category xml:id="keyword_1.43">
                     <catDesc>Treatise</catDesc>
                 </category>
             </category>
@@ -271,6 +280,9 @@
                 <category xml:id="keyword_3.37">
                     <catDesc>Turkish</catDesc>
                 </category>
+                <category xml:id="keyword_3.38">
+                    <catDesc>Yemenite</catDesc>
+                </category>
             </category>
             <category xml:id="keyword_4">
                 <catDesc>Desciptive term</catDesc>
@@ -305,105 +317,129 @@
                     <catDesc>Colophon</catDesc>
                 </category>
                 <category xml:id="keyword_4.12">
-                    <catDesc>Drawing</catDesc>
+                    <catDesc>Damage</catDesc>
                 </category>
                 <category xml:id="keyword_4.13">
-                    <catDesc>Early Abbasid script</catDesc>
+                    <catDesc>Diagrams</catDesc>
                 </category>
                 <category xml:id="keyword_4.14">
-                    <catDesc>Gloss</catDesc>
+                    <catDesc>Drawing</catDesc>
                 </category>
                 <category xml:id="keyword_4.15">
-                    <catDesc>Gothic</catDesc>
+                    <catDesc>Early Abbasid script</catDesc>
                 </category>
                 <category xml:id="keyword_4.16">
-                    <catDesc>Gothic book hand</catDesc>
+                    <catDesc>Fragment</catDesc>
                 </category>
                 <category xml:id="keyword_4.17">
-                    <catDesc>Grisaille</catDesc>
+                    <catDesc>Gloss</catDesc>
                 </category>
                 <category xml:id="keyword_4.18">
-                    <catDesc>Grotesques</catDesc>
+                    <catDesc>Gothic</catDesc>
                 </category>
                 <category xml:id="keyword_4.19">
-                    <catDesc>Headpiece</catDesc>
+                    <catDesc>Gothic book hand</catDesc>
                 </category>
                 <category xml:id="keyword_4.20">
-                    <catDesc>Heraldry</catDesc>
+                    <catDesc>Grisaille</catDesc>
                 </category>
                 <category xml:id="keyword_4.21">
-                    <catDesc>Historiated initial</catDesc>
+                    <catDesc>Grotesques</catDesc>
                 </category>
                 <category xml:id="keyword_4.22">
-                    <catDesc>Humanistic</catDesc>
+                    <catDesc>Headpiece</catDesc>
                 </category>
                 <category xml:id="keyword_4.23">
-                    <catDesc>Illustration</catDesc>
+                    <catDesc>Heraldry</catDesc>
                 </category>
                 <category xml:id="keyword_4.24">
-                    <catDesc>Inhabited initial</catDesc>
+                    <catDesc>Historiated initial</catDesc>
                 </category>
                 <category xml:id="keyword_4.25">
-                    <catDesc>Kufic</catDesc>
+                    <catDesc>Humanistic</catDesc>
                 </category>
                 <category xml:id="keyword_4.26">
-                    <catDesc>Manicules</catDesc>
+                    <catDesc>Illumination</catDesc>
                 </category>
                 <category xml:id="keyword_4.27">
-                    <catDesc>Medallion</catDesc>
+                    <catDesc>Illustration</catDesc>
                 </category>
                 <category xml:id="keyword_4.28">
-                    <catDesc>Micrography</catDesc>
+                    <catDesc>Inhabited initial</catDesc>
                 </category>
                 <category xml:id="keyword_4.29">
-                    <catDesc>Miniature</catDesc>
+                    <catDesc>Kufic</catDesc>
                 </category>
                 <category xml:id="keyword_4.30">
-                    <catDesc>Musical notation</catDesc>
+                    <catDesc>Manicules</catDesc>
                 </category>
                 <category xml:id="keyword_4.31">
-                    <catDesc>New Abbasid style</catDesc>
+                    <catDesc>Medallion</catDesc>
                 </category>
                 <category xml:id="keyword_4.32">
-                    <catDesc>Original binding</catDesc>
+                    <catDesc>Micrography</catDesc>
                 </category>
                 <category xml:id="keyword_4.33">
-                    <catDesc>Ornament</catDesc>
+                    <catDesc>Miniature</catDesc>
                 </category>
                 <category xml:id="keyword_4.34">
-                    <catDesc>Painting</catDesc>
+                    <catDesc>Missing leaves</catDesc>
                 </category>
                 <category xml:id="keyword_4.35">
-                    <catDesc>Puzzle initial</catDesc>
+                    <catDesc>Musical notation</catDesc>
                 </category>
                 <category xml:id="keyword_4.36">
-                    <catDesc>Ragini</catDesc>
+                    <catDesc>New Abbasid style</catDesc>
                 </category>
                 <category xml:id="keyword_4.37">
-                    <catDesc>Romanesque</catDesc>
+                    <catDesc>Notable binding</catDesc>
                 </category>
                 <category xml:id="keyword_4.38">
-                    <catDesc>Scrapbook</catDesc>
+                    <catDesc>Original binding</catDesc>
                 </category>
                 <category xml:id="keyword_4.39">
-                    <catDesc>Scroll</catDesc>
+                    <catDesc>Ornament</catDesc>
                 </category>
                 <category xml:id="keyword_4.40">
-                    <catDesc>Scroll-work initial</catDesc>
+                    <catDesc>Painting</catDesc>
                 </category>
                 <category xml:id="keyword_4.41">
-                    <catDesc>Textura</catDesc>
+                    <catDesc>Paper</catDesc>
                 </category>
                 <category xml:id="keyword_4.42">
-                    <catDesc>Treasure binding</catDesc>
+                    <catDesc>Puzzle initial</catDesc>
                 </category>
                 <category xml:id="keyword_4.43">
-                    <catDesc>Watermark</catDesc>
+                    <catDesc>Ragini</catDesc>
                 </category>
                 <category xml:id="keyword_4.44">
-                    <catDesc>White-vine lettering</catDesc>
+                    <catDesc>Romanesque</catDesc>
                 </category>
                 <category xml:id="keyword_4.45">
+                    <catDesc>Scrapbook</catDesc>
+                </category>
+                <category xml:id="keyword_4.46">
+                    <catDesc>Scroll</catDesc>
+                </category>
+                <category xml:id="keyword_4.47">
+                    <catDesc>Scroll-work initial</catDesc>
+                </category>
+                <category xml:id="keyword_4.48">
+                    <catDesc>Tables</catDesc>
+                </category>
+                <category xml:id="keyword_4.49">
+                    <catDesc>Textura</catDesc>
+                </category>
+                <category xml:id="keyword_4.50">
+                    <catDesc>Treasure binding</catDesc>
+                </category>
+                <category xml:id="keyword_4.51">
+                    <catDesc>Watermark</catDesc>
+                </category>
+                <category xml:id="keyword_4.52">
+                    <catDesc>White-vine lettering</catDesc>
+                </category>
+                <category xml:id="keyword_4.53">
                     <catDesc>Woodcuts</catDesc>
                 </category>
             </category>
@@ -461,166 +497,145 @@
                     <catDesc>Iraq</catDesc>
                 </category>
                 <category xml:id="keyword_5.19">
-                    <catDesc>Italy</catDesc>
+                    <catDesc>Israel</catDesc>
                 </category>
                 <category xml:id="keyword_5.20">
-                    <catDesc>Maghreb</catDesc>
+                    <catDesc>Italy</catDesc>
                 </category>
                 <category xml:id="keyword_5.21">
-                    <catDesc>Morocco</catDesc>
+                    <catDesc>Maghreb</catDesc>
                 </category>
                 <category xml:id="keyword_5.22">
-                    <catDesc>Netherlands</catDesc>
+                    <catDesc>Morocco</catDesc>
                 </category>
                 <category xml:id="keyword_5.23">
-                    <catDesc>Pakistan</catDesc>
+                    <catDesc>Netherlands</catDesc>
                 </category>
                 <category xml:id="keyword_5.24">
-                    <catDesc>Romania</catDesc>
+                    <catDesc>Pakistan</catDesc>
                 </category>
                 <category xml:id="keyword_5.25">
-                    <catDesc>Russia</catDesc>
+                    <catDesc>Romania</catDesc>
                 </category>
                 <category xml:id="keyword_5.26">
-                    <catDesc>Spain</catDesc>
+                    <catDesc>Russia</catDesc>
                 </category>
                 <category xml:id="keyword_5.27">
-                    <catDesc>Sub-Saharan (West) Africa</catDesc>
+                    <catDesc>Spain</catDesc>
                 </category>
                 <category xml:id="keyword_5.28">
+                    <catDesc>Sub-Saharan (West) Africa</catDesc>
+                </category>
+                <category xml:id="keyword_5.29">
                     <catDesc>Turkey</catDesc>
+                </category>
+                <category xml:id="keyword_5.30">
+                    <catDesc>Yemen</catDesc>
                 </category>
             </category>
             <category xml:id="keyword_6">
-                <catDesc>Subject</catDesc>
+                <catDesc>Other</catDesc>
                 <category xml:id="keyword_6.2">
-                    <catDesc>Astrology</catDesc>
+                    <catDesc>Alchemy</catDesc>
                 </category>
                 <category xml:id="keyword_6.3">
-                    <catDesc>Astronomy</catDesc>
-                </category>
-                <category xml:id="keyword_6.4">
-                    <catDesc>Cartography</catDesc>
-                </category>
-                <category xml:id="keyword_6.5">
-                    <catDesc>Cosmology</catDesc>
-                </category>
-                <category xml:id="keyword_6.6">
-                    <catDesc>Devotion</catDesc>
-                </category>
-                <category xml:id="keyword_6.7">
-                    <catDesc>Financial records</catDesc>
-                </category>
-                <category xml:id="keyword_6.8">
-                    <catDesc>Fortune-telling</catDesc>
-                </category>
-                <category xml:id="keyword_6.9">
-                    <catDesc>Friendship</catDesc>
-                </category>
-                <category xml:id="keyword_6.10">
-                    <catDesc>Games</catDesc>
-                </category>
-                <category xml:id="keyword_6.11">
-                    <catDesc>Geography</catDesc>
-                </category>
-                <category xml:id="keyword_6.12">
-                    <catDesc>Geomancy</catDesc>
-                </category>
-                <category xml:id="keyword_6.13">
-                    <catDesc>Grammar</catDesc>
-                </category>
-                <category xml:id="keyword_6.14">
-                    <catDesc>History</catDesc>
-                </category>
-                <category xml:id="keyword_6.15">
-                    <catDesc>Kabbalah</catDesc>
-                </category>
-                <category xml:id="keyword_6.16">
-                    <catDesc>Legal</catDesc>
-                </category>
-                <category xml:id="keyword_6.17">
-                    <catDesc>Literature -- Poetry</catDesc>
-                </category>
-                <category xml:id="keyword_6.18">
-                    <catDesc>Literature -- Prose</catDesc>
-                </category>
-                <category xml:id="keyword_6.19">
-                    <catDesc>Liturgy</catDesc>
-                </category>
-                <category xml:id="keyword_6.20">
-                    <catDesc>Logic</catDesc>
-                </category>
-                <category xml:id="keyword_6.21">
-                    <catDesc>Magic</catDesc>
-                </category>
-                <category xml:id="keyword_6.22">
-                    <catDesc>Mathematics</catDesc>
-                </category>
-                <category xml:id="keyword_6.23">
-                    <catDesc>Mineralogy</catDesc>
-                </category>
-                <category xml:id="keyword_6.24">
-                    <catDesc>Philosophy</catDesc>
-                </category>
-                <category xml:id="keyword_6.25">
-                    <catDesc>Piyutim</catDesc>
-                </category>
-                <category xml:id="keyword_6.26">
-                    <catDesc>Responsa</catDesc>
-                </category>
-                <category xml:id="keyword_6.27">
-                    <catDesc>Science</catDesc>
-                </category>
-                <category xml:id="keyword_6.28">
-                    <catDesc>Science -- Medicine</catDesc>
-                </category>
-                <category xml:id="keyword_6.29">
-                    <catDesc>Scripture</catDesc>
-                </category>
-                <category xml:id="keyword_6.30">
-                    <catDesc>Sufism</catDesc>
-                </category>
-                <category xml:id="keyword_6.31">
-                    <catDesc>Theology</catDesc>
-                </category>
-            </category>
-            <category xml:id="keyword_7">
-                <catDesc>Other</catDesc>
-                <category xml:id="keyword_7.2">
-                    <catDesc>Collection of Sermons</catDesc>
-                </category>
-                <category xml:id="keyword_7.3">
-                    <catDesc>Notable binding</catDesc>
-                </category>
-                <category xml:id="keyword_7.4">
-                    <catDesc>Paper</catDesc>
-                </category>
-                <category xml:id="keyword_7.5">
-                    <catDesc>Damage</catDesc>
-                </category>
-                <category xml:id="keyword_7.6">
-                    <catDesc>Diagrams</catDesc>
-                </category>
-                <category xml:id="keyword_7.7">
-                    <catDesc>Tables</catDesc>
-                </category>
-                <category xml:id="keyword_7.8">
-                    <catDesc>Illumination</catDesc>
-                </category>
-                <category xml:id="keyword_7.9">
-                    <catDesc>Fragment</catDesc>
-                </category>
-                <category xml:id="keyword_7.10">
                     <catDesc>Allegory</catDesc>
                 </category>
-                <category xml:id="keyword_7.11">
+                <category xml:id="keyword_6.4">
+                    <catDesc>Astrology</catDesc>
+                </category>
+                <category xml:id="keyword_6.5">
+                    <catDesc>Astronomy</catDesc>
+                </category>
+                <category xml:id="keyword_6.6">
                     <catDesc>Biblical</catDesc>
                 </category>
-                <category xml:id="keyword_7.12">
-                    <catDesc>Missing leaves</catDesc>
+                <category xml:id="keyword_6.7">
+                    <catDesc>Cartography</catDesc>
                 </category>
-                <category xml:id="keyword_7.13">
+                <category xml:id="keyword_6.8">
                     <catDesc>Church Fathers</catDesc>
+                </category>
+                <category xml:id="keyword_6.9">
+                    <catDesc>Cosmology</catDesc>
+                </category>
+                <category xml:id="keyword_6.10">
+                    <catDesc>Devotion</catDesc>
+                </category>
+                <category xml:id="keyword_6.11">
+                    <catDesc>Financial records</catDesc>
+                </category>
+                <category xml:id="keyword_6.12">
+                    <catDesc>Fortune-telling</catDesc>
+                </category>
+                <category xml:id="keyword_6.13">
+                    <catDesc>Friendship</catDesc>
+                </category>
+                <category xml:id="keyword_6.14">
+                    <catDesc>Games</catDesc>
+                </category>
+                <category xml:id="keyword_6.15">
+                    <catDesc>Geography</catDesc>
+                </category>
+                <category xml:id="keyword_6.16">
+                    <catDesc>Geomancy</catDesc>
+                </category>
+                <category xml:id="keyword_6.17">
+                    <catDesc>Grammar</catDesc>
+                </category>
+                <category xml:id="keyword_6.18">
+                    <catDesc>History</catDesc>
+                </category>
+                <category xml:id="keyword_6.19">
+                    <catDesc>Kabbalah</catDesc>
+                </category>
+                <category xml:id="keyword_6.20">
+                    <catDesc>Legal</catDesc>
+                </category>
+                <category xml:id="keyword_6.21">
+                    <catDesc>Literature -- Poetry</catDesc>
+                </category>
+                <category xml:id="keyword_6.22">
+                    <catDesc>Literature -- Prose</catDesc>
+                </category>
+                <category xml:id="keyword_6.23">
+                    <catDesc>Liturgy</catDesc>
+                </category>
+                <category xml:id="keyword_6.24">
+                    <catDesc>Logic</catDesc>
+                </category>
+                <category xml:id="keyword_6.25">
+                    <catDesc>Magic</catDesc>
+                </category>
+                <category xml:id="keyword_6.26">
+                    <catDesc>Mathematics</catDesc>
+                </category>
+                <category xml:id="keyword_6.27">
+                    <catDesc>Mineralogy</catDesc>
+                </category>
+                <category xml:id="keyword_6.28">
+                    <catDesc>Philosophy</catDesc>
+                </category>
+                <category xml:id="keyword_6.29">
+                    <catDesc>Piyutim</catDesc>
+                </category>
+                <category xml:id="keyword_6.30">
+                    <catDesc>Responsa</catDesc>
+                </category>
+                <category xml:id="keyword_6.31">
+                    <catDesc>Science</catDesc>
+                </category>
+                <category xml:id="keyword_6.32">
+                    <catDesc>Science -- Medicine</catDesc>
+                </category>
+                <category xml:id="keyword_6.33">
+                    <catDesc>Scripture</catDesc>
+                </category>
+                <category xml:id="keyword_6.34">
+                    <catDesc>Sufism</catDesc>
+                </category>
+                <category xml:id="keyword_6.35">
+                    <catDesc>Theology</catDesc>
                 </category>
             </category>
         </taxonomy>
