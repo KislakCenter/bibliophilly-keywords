@@ -1,20 +1,21 @@
 <?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
  xmlns:x="urn:schemas-microsoft-com:office:excel"
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>Microsoft Office User</LastAuthor>
-  <Created>2018-01-12T19:21:22Z</Created>
-  <Version>15.0</Version>
+  <LastAuthor>Porter, Dot</LastAuthor>
+  <Created>2018-01-23T22:17:45Z</Created>
+  <LastSaved>2018-01-23T22:17:45Z</LastSaved>
+  <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
-  <PixelsPerInch>96</PixelsPerInch>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>16540</WindowHeight>
+  <WindowHeight>16560</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>460</WindowTopY>
@@ -25,22 +26,22 @@
   <Style ss:ID="Default" ss:Name="Normal">
    <Alignment ss:Vertical="Bottom"/>
    <Borders/>
-   <Font ss:Color="#000000"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
    <Interior/>
    <NumberFormat/>
    <Protection/>
   </Style>
   <Style ss:ID="s15">
    <Alignment ss:Vertical="Bottom"/>
-   <Font ss:Color="#000000"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
   </Style>
   <Style ss:ID="s16">
    <Alignment ss:Vertical="Bottom"/>
-   <Font ss:Bold="1"/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
   </Style>
   <Style ss:ID="s17">
    <Alignment ss:Vertical="Bottom"/>
-   <Font/>
+   <Font ss:FontName="Arial"/>
   </Style>
   <Style ss:ID="s18">
    <Alignment ss:Vertical="Bottom"/>
@@ -49,10 +50,10 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet2">
-  <Table ss:ExpandedColumnCount="53" ss:ExpandedRowCount="6" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="54" ss:ExpandedRowCount="6" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s15" ss:DefaultColumnWidth="87"
    ss:DefaultRowHeight="15.75">
-   <Row ss:Height="13">
+   <Row ss:Height="16">
     <Cell ss:StyleID="s16"><Data ss:Type="String">Book Type</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Accounts</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Antiphonary</Data></Cell>
@@ -73,6 +74,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Gospel Lectionary</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Gospels</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Gradual</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Halakhah</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Haggadah</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Homilary</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Horologion</Data></Cell>
@@ -154,7 +156,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Yemenite</Data></Cell>
    </Row>
    <Row ss:Height="13">
-    <Cell ss:StyleID="s16"><Data ss:Type="String">Desciptive term</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Descriptive term</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Accordion book</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Album</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Annotated</Data></Cell>
@@ -194,6 +196,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Original binding</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Ornament</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Painting</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Palimpsest</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Paper</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Puzzle initial</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Ragini</Data></Cell>
@@ -285,7 +288,6 @@
     <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
    </PageSetup>
    <Unsynced/>
-   <PageLayoutZoom>0</PageLayoutZoom>
    <Selected/>
    <ProtectObjects>False</ProtectObjects>
    <ProtectScenarios>False</ProtectScenarios>
