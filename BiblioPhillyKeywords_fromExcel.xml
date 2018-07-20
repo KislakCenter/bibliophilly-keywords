@@ -7,16 +7,17 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>Porter, Dot</LastAuthor>
-  <Created>2018-05-16T17:27:05Z</Created>
+  <Created>2018-07-20T14:31:15Z</Created>
+  <LastSaved>2018-07-20T14:31:15Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>16720</WindowHeight>
+  <WindowHeight>16660</WindowHeight>
   <WindowWidth>28800</WindowWidth>
-  <WindowTopX>0</WindowTopX>
+  <WindowTopX>32767</WindowTopX>
   <WindowTopY>460</WindowTopY>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
@@ -70,7 +71,6 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Friendship book</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Genealogy</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Glossary</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Gospel Book</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Gospel Lectionary</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Gospels</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Gradual</Data></Cell>
@@ -86,7 +86,6 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Missal</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Pontifical</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Portolan chart</Data></Cell>
-    <Cell ss:StyleID="s17"><Data ss:Type="String">Prayer</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Prayer book</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Private devotional text</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Processional</Data></Cell>
@@ -102,6 +101,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s16"><Data ss:Type="String">Century</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">6th century</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">7th century</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">8th century</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">9th century</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">10th century</Data></Cell>
@@ -146,6 +147,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Ottoman</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Ottonian</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Persian</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Portuguese</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Qajar</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Rajput</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Russian</Data></Cell>
@@ -238,6 +240,7 @@
     <Cell ss:StyleID="s17"><Data ss:Type="String">Morocco</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Netherlands</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Pakistan</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Portugal</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Romania</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Russia</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">Spain</Data></Cell>
