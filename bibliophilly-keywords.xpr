@@ -10,6 +10,21 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>archive/Keywords.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>BiblioPhilly Keywords</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>../Heptameron/v-machine/samples/BnF_ms_fr_1520.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -96,7 +111,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/generate-bibliophilly-keywords.xsl</String>
+                                    <String>${pdu}/archive/generate-bibliophilly-keywords.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
