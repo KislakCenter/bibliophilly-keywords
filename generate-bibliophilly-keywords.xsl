@@ -18,14 +18,18 @@
                 
                 
                 <xsl:for-each select="//sp:Row">
+                    <xsl:if test="./sp:Cell[1] and normalize-space(sp:Cell[1]) != ''">
                     <category>
                         <xsl:variable name="rowNo"><xsl:number/></xsl:variable>
                         <xsl:attribute name="xml:id">keyword_<xsl:value-of select="$rowNo"/></xsl:attribute>
-                        <catDesc><xsl:value-of select="sp:Cell[@ss:StyleID='s16']"/></catDesc>
-                        <xsl:for-each select="sp:Cell[@ss:StyleID='s17']">
-                            <category><xsl:attribute name="xml:id">keyword_<xsl:value-of select="$rowNo"/>.<xsl:number/></xsl:attribute><catDesc><xsl:value-of select="."/></catDesc></category>
+                        <catDesc><xsl:value-of select="sp:Cell[1]"/></catDesc>
+                        <xsl:for-each select="sp:Cell">
+                            <xsl:if test="position() >1">
+                                <category><xsl:attribute name="xml:id">keyword_<xsl:value-of select="$rowNo"/>.<xsl:number/></xsl:attribute><catDesc><xsl:value-of select="."/></catDesc></category>
+                            </xsl:if>
                         </xsl:for-each>
                     </category>
+                </xsl:if>
                 </xsl:for-each>
                 
                 
