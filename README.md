@@ -1,7 +1,7 @@
 # bibliophilly-keywords
 Keyword list for the Bibliotheca Philadelphiensis project (based on the Digital Walters keyword list) 
 
-Refer to archive/Keywords.xslx for the most up to date list of keywords
+Refer to Keywords.xslx for the most up to date list of keywords
 
 Instructions:
 * Download the spreadsheet as an Excel file
