@@ -1,7 +1,7 @@
 # bibliophilly-keywords
 Keyword list for the Bibliotheca Philadelphiensis project (based on the Digital Walters keyword list) 
 
-The master Google Spreadsheet (located in BiblioPhilly HQ) is here: https://docs.google.com/spreadsheets/d/1U6Xk39Pr3UYvbpUjN2SC6rJjJ26Y5F-QMVX_Dq0SENM/edit?usp=sharing
+Refer to archive/Keywords.xslx for the most up to date list of keywords
 
 Instructions:
 * Download the spreadsheet as an Excel file
